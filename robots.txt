@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kahkohyeec.vikparket.lviv.ua/sitemap.xml
